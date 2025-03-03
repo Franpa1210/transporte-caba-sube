@@ -18,7 +18,7 @@ Este proyecto analiza un conjunto de datos del año 2022 sobre viajes y su relac
 ## **Estructura del Proyecto**
 📁 data/ → Contiene los archivos de datos (si se pueden compartir).
 
-📄 consulta_viajes.sql/ Contiene la consulta realizada a la fuente de datos
+📁 scripts/ Contiene la consulta realizada a la fuente de datos
 
 📁 reports/ → Informe final hecho en Power BI
 
