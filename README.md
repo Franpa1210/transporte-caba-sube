@@ -16,7 +16,7 @@ Este proyecto analiza un conjunto de datos del año 2022 sobre viajes y su relac
 * Georreferenciar con un heatmap los puntos de origen
 
 ## **Estructura del Proyecto**
-📁 data/ → Contiene los dataset utilizados
+📁 data/ → Contiene los datasets utilizados
 
 📁 scripts/ Contiene la consulta realizada a la fuente de datos
 
